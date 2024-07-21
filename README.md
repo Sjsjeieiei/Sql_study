@@ -17,8 +17,9 @@ DB는 데이터베이스 즉 데이터의 집합일 뿐이며 DBMS는 데이터�
 
 - 관계형 데이터베이스는 열(colum)과 행(row)를 갖는 2차원 배열 형식의 데이터베이스
 - 수많은 데이터를 가공하는 키와 관계라는 연결 고리로 연결하여 원하는 데이터를 조회하고 가공하는 데이터베이스
+- 
+![image](https://github.com/user-attachments/assets/0895d67c-e461-46e1-88dc-b295969cfbc7)
 
-![s_2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7540eda1-50b0-4704-924e-78f9872ec9b8/289acc6f-ee3e-4771-a163-875cb1ff8067/s_2.png)
 
 ## 계층형 데이터베이스
 
@@ -26,8 +27,7 @@ DB는 데이터베이스 즉 데이터의 집합일 뿐이며 DBMS는 데이터�
 
 - 가장 오래된 형태의 데이터베이스 윈도우에서의 디렉토리 방식
 - 직관적이기에 개인용 저장 장치에 쓰이나 기업에서 자주 사용하는 형태는 아니다.
-
-![s_3.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7540eda1-50b0-4704-924e-78f9872ec9b8/36c6ea76-e69b-4d8a-9add-1b915cbdfdc2/s_3.png)
+![image](https://github.com/user-attachments/assets/56731464-78c4-4acd-a40f-96dcfc2f17ae)
 
 ### 객체 지향 인터페이스
 
@@ -36,7 +36,8 @@ DB는 데이터베이스 즉 데이터의 집합일 뿐이며 DBMS는 데이터�
 - 객체와 객체 식별자, 속성,메소드 클래스,클래스 계층 및 상속 복합 객채 지향 데이터모델을 지원하는 데이터베이스(db에서의 자바와 같은?)
 - 자바,c++ 과 같은 객체 지향언어의 객체 지향 프로그래밍에 적합한 데이터베이스.
 
-![s_4.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7540eda1-50b0-4704-924e-78f9872ec9b8/e158b2a5-6d88-4376-aa48-e4b38ed3d6a8/s_4.png)
+![image](https://github.com/user-attachments/assets/03d7ef7f-0c77-46b0-bcff-7a611d1ac9a1)
+
 
 ### SQL이란?
 
@@ -47,7 +48,8 @@ DB는 데이터베이스 즉 데이터의 집합일 뿐이며 DBMS는 데이터�
 - 데이터 제어어(DCL,Data Control Language),
 - 트랜잭션(Transaction Control Language)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/7540eda1-50b0-4704-924e-78f9872ec9b8/77ece8db-5dd5-4d85-a356-7566ef98a1c9/Untitled.png)
+![Uploading image.png…]()
+
 
 .
 
