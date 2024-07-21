@@ -1,4 +1,4 @@
-notion 링크:https://wind-dewberry-ca7.notion.site/sql-953307df0b38424097a534068e447b3b?pvs=4
+notion 링크 [제목: 모두의 sql]:https://wind-dewberry-ca7.notion.site/sql-953307df0b38424097a534068e447b3b?pvs=4
 
 ---
 
